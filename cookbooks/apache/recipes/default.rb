@@ -5,7 +5,7 @@
 # Copyright 2014, YOUR_COMPANY_NAME
 #
 # All rights reserved - Do Not Redistribute
-#
+# more testing
 
 # remove the httpd package from the server
 #package 'httpd' do
